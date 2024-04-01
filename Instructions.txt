@@ -1,0 +1,28 @@
+A component can have its data
+Every component can have its data
+
+<h1>Welcome</h1>
+
+Where can be a component data?
+1. Inside Component
+2. Outside Component
+
+{} = Expression Evaluator
+{You can write any JS expression here}
+
+let name='amit';
+{name}
+
+<starttag attribute="value"></endtag>
+<h1 class="a1"></h1>
+
+ReactJs
+<h1 surname="Kumar"></h1>
+props = Properties
+
+// 1. Function defination
+function A()
+{
+
+}
+// 2. Function calling
